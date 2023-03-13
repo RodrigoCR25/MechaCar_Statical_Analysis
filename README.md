@@ -34,22 +34,34 @@ ________________________________________________________________________________
 
 # Linear Regression to Predict MPG
 
+The first test we ran was a Multiple linear regression with every variable that was given with the MechaCar_mpg.csv file. This test allows us to visualize which of the variables are likely to contribute random ammounts of variance to the linear model or in other words which variables describe better the miles per gallon consumption.
+
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/MPG_linear%20_regression.png)
 
 _____________________________________________________________________________________________________________________________________________________________
 
 # Summary Statistics on Suspensions Coils
 
+The next test was made with the next piece of information in mind:
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+
+A summary with the mean, median, variance and standard deviation of the PSI measured of the total lot and by lot individually was made in order to give an answer to the question.
+
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/Total_summary.png)
 
+The total summary tells us that apparently the variance do meet design specification for the overall file (all lots). Still the value is somewhat high (62.3) so we will need to dig deeper to se what is happening to the data. The median tells us that the value at the middle of all the lots is 1500 and the mean or the expected value is 14998.78 which also tells us that there are more Coils with PSI values lower to 1500.
 
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/Lot_summary.png)
 _____________________________________________________________________________________________________________________________________________________________
 
 # T-Tests on Suspension Coils
 
+The t-tests put into question wether or not there is a difference between the sample distribution mean and the population distribution mean. So we checked for an overall difference and a difference by production lot.
+
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/T_test_all.png)
 
+For the overall t-test we sampled by random 50 values, the result we got can be observed with the P-value of 0.8433 which is bigger than the significance level (0.05) so we do not have enough evidence to fail to reject the null hypothesis so the two means are statistically similar.
 
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/T_test_by_lot.png)
 
