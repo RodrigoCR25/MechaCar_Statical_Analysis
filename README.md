@@ -24,7 +24,7 @@ Identify key characteristics of A/B and A/A testing.
 
 Determine the most appropriate statistical test for a given hypothesis and dataset.
 
-________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________
 
 # Objetive
 
@@ -32,16 +32,23 @@ An statistical analysis with R on the MechaCar for data review for insights to h
 
 ____________________________________________________________________________________________________________________________________________________________
 
+# Linear Regression to Predict MPG
+
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/MPG_linear%20_regression.png)
 
+_____________________________________________________________________________________________________________________________________________________________
+
+# Summary Statistics on Suspensions Coils
 
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/Total_summary.png)
 
 
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/Lot_summary.png)
+_____________________________________________________________________________________________________________________________________________________________
 
+# T-Tests on Suspension Coils
 
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/T_test_all.png)
 
 
-![image] ()
+![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/T_test_by_lot.png)
