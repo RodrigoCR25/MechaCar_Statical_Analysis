@@ -52,3 +52,14 @@ ________________________________________________________________________________
 
 
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/T_test_by_lot.png)
+
+_____________________________________________________________________________________________________________________________________________________________
+Study design: MechaCar vs Competition
+________________________________________
+Chi-square test: security rating over the years by different rating agencies
+
+The idea is to collect enough data that a third party has researched and classified over the years. It is proposed that it be a separate entity from the company to avoid bias and not mess with randomness. The main metric to test is safety, as it has always been one of the most fundamental parts of a car, and as time has passed this is still true, but what is also true is that technology has improved over time. the years.
+
+So it's safe to assume that security technology is better now than ever. In order to demonstrate that our car, the assembly was carried out under one of the highest security protocols in history, because a null hypothesis will be tested. H0: The distribution of the classification number in the different classification systems is similar. Thus demonstrating that since its inception AutosRUs has always generally provided the best safety in cars.
+
+The Chi-square test is the best option, since two inputs of categorical data will be used (rank number and rank system), and we primarily want to see if there is a difference in the frequencies of the overall rank number across multiple ranks. . Therefore, you need a data file that contains two columns and as many rows as possible. The columns would be "Classification System", with different organization classifications, and "Classification Number" the actual number.
