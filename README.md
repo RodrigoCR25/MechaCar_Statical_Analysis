@@ -66,9 +66,9 @@ For the overall t-test we sampled by random 50 values, the result we got can be 
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/T_test_by_lot.png)
 
 _____________________________________________________________________________________________________________________________________________________________
-Study design: MechaCar vs Competition
+# Study design: MechaCar vs Competition
 ________________________________________
-Chi-square test: security rating over the years by different rating agencies
+# Chi-square test: security rating over the years by different rating agencies
 
 The idea is to collect enough data that a third party has researched and classified over the years. It is proposed that it be a separate entity from the company to avoid bias and not mess with randomness. The main metric to test is safety, as it has always been one of the most fundamental parts of a car, and as time has passed this is still true, but what is also true is that technology has improved over time. the years.
 
