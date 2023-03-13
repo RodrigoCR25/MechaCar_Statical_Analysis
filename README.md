@@ -32,7 +32,7 @@ An statistical analysis with R on the MechaCar for data review for insights to h
 
 ____________________________________________________________________________________________________________________________________________________________
 
-![image] ()
+![image] (https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/MPG_linear%20_regression.png)
 
 
 ![image] ()
