@@ -38,7 +38,7 @@ ________________________________________________________________________________
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/Total_summary.png)
 
 
-![image] ()
+![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/Lot_summary.png)
 
 
 ![image] ()
