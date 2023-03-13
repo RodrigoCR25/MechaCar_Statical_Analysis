@@ -36,6 +36,12 @@ ________________________________________________________________________________
 
 The first test we ran was a Multiple linear regression with every variable that was given with the MechaCar_mpg.csv file. This test allows us to visualize which of the variables are likely to contribute random ammounts of variance to the linear model or in other words which variables describe better the miles per gallon consumption.
 
+From the results first we can talk about the general p-value (5.35e-11). The p-value helps us evaluate the null hypothesis for linear regression, that states, that if the slope of the linear model is equal to zero and as our p-value > 0.05 (our significance level).
+
+From the results first we can talk about the general p-value (5.35e-11). The p-value helps us evaluate the null hypothesis for linear regression, that states, that if the slope of the linear model is equal to zero and as our p-value > 0.05 (our significance level).
+
+From the individuals Pr(>|t|) values we are also able to tell that "vehicle_weight", "spoiler_angle" and "AWD" are statistically unlikely to provide random amounts of variance to the linear model. So they have a significant impact on the MPG.
+
 ![image](https://github.com/RodrigoCR25/MechaCar_Statical_Analysis/blob/main/MPG_linear%20_regression.png)
 
 _____________________________________________________________________________________________________________________________________________________________
